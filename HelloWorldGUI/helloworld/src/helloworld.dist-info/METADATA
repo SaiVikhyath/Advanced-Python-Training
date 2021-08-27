@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.5
+Name: helloworld
+Formal-Name: Hello World
+App-ID: com.example.helloworld
+Version: 0.0.1
+Home-page: https://example.com/helloworld
+Author: Sai Vikhyath
+Author-email: vikhyath456@gmail.com
+Summary: Hello World application, says hello to the user on a button click
